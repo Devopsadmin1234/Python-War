@@ -38,7 +38,7 @@ pTwoDeclareScore = 0
 playerCards = 26
 placed = 0
 
-#Selections
+  #Selections
 pOneSelect = ""
 pTwoSelect = ""
 helpSelect = ""
